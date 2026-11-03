@@ -10,4 +10,4 @@ training statistics, clubs, and group challenges — built and self-hosted by
 Gianni Baudino, doing business as Ando.
 
 - [Privacy policy](https://ando.fit/privacy)
-- Contact: gbaudino@ascenteceng.com
+- Contact: gianni@ando.fit
