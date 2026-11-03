@@ -3,12 +3,12 @@ title: Privacy Policy
 permalink: /privacy
 ---
 
-# Privacy Policy — x2flip Running
+# Privacy Policy — Ando
 
-_Last updated: July 10, 2026_
+_Last updated: November 3, 2026_
 
-x2flip Running ("the app") is a running and activity-tracking application
-operated by x2flip (sole proprietorship, United States).
+Ando ("the app", https://ando.fit) is a running and activity-tracking
+application operated by x2flip (sole proprietorship, United States).
 
 ## What we collect
 
